@@ -1,1 +1,6 @@
 logs
+browser
+output.xml
+report.html
+log.html
+playwright-log.txt
