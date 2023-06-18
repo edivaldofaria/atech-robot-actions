@@ -14,7 +14,7 @@ Deve Logar com sucesso
    ${user}       Create Dictionary        user=qa    password=xperience
 
    Submit login form    qa        xperience
-   Pop Up Should Be     Suas credenciais são válida :)
+   Pop Up Should Be     Suas credenciais são válidas :)
 
 Não deve logar se a senha for incorreta   
   Submit login form    qa        123456
